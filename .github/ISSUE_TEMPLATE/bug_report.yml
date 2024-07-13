@@ -1,5 +1,5 @@
 name: Bug report
-description: A form to help you create a report
+description: A convenient form to help you create a report.
 labels: bug
 body:
   - type: textarea
