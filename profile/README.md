@@ -1,5 +1,7 @@
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spellhold-Studios/.github/main/profile/assets/images/shs-banner.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spellhold-Studios/.github/main/profile/assets/images/shs-banner.jpg" />
     <img alt="Spellhold Studios" src="https://raw.githubusercontent.com/Spellhold-Studios/.github/main/profile/assets/images/shs-banner.jpg">
   </picture>
 </div>
