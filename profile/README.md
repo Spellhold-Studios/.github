@@ -1,4 +1,8 @@
-<div align="center"><img alt="Spellhold Studios" src="https://raw.githubusercontent.com/Spellhold-Studios/.github/main/profile/assets/images/shs-banner.jpg"></div>
+<div align="center">
+  <picture>
+    <img alt="Spellhold Studios" src="https://raw.githubusercontent.com/Spellhold-Studios/.github/main/profile/assets/images/shs-banner.jpg">
+  </picture>
+</div>
 
 <br>
 
