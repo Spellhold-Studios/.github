@@ -10,7 +10,6 @@ This guide serves to set clear expectations for everyone involved with the proje
 - [Requesting Features](#bulb-requesting-features)
 - [Submitting Pull Requests](#repeat-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
-- [Coding Style](#nail_care-coding-style)
 - [Credits](#pray-credits)
 
 ## :book: Code of Conduct
@@ -49,15 +48,15 @@ Suggestions are always welcome! While we will consider all requests, we cannot g
 
 ## :repeat: Submitting Pull Requests
 
-Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
+Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) or comment on an existing issue to present your intended approach for solving the problem. If you would like to suggest a new feature, first [start a discussion](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion#creating-a-discussion) to talk it over with the maintainers.
 
-- **Smaller is better.** Submit **one** pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. **Do not** refactor or reformat code that is unrelated to your change. It is better to **submit many small pull requests** rather than a single large one. Enormous pull requests will take enormous amounts of time to review, or may be rejected altogether. 
+- **Smaller is better.** Submit one pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. Do not refactor or reformat code that is unrelated to your change. It is better to submit many small pull requests rather than a single large one. Enormous pull requests will take enormous amounts of time to review, or may be rejected altogether. 
 
 - **Coordinate bigger changes.** For large and non-trivial changes, open an issue to discuss a strategy with the maintainers. Otherwise, you risk doing a lot of work for nothing!
 
 - **Prioritize understanding over cleverness.** Write code clearly and concisely. Remember that source code usually gets written once and read often. Ensure the code is clear to the reader. The purpose and logic should be obvious to a reasonably skilled developer, otherwise you should add a comment that explains it.
 
-- **Follow existing coding style and conventions.** Keep your code consistent with the style, formatting, and conventions in the rest of the code base. Consistency makes it easier to review and modify in the future.
+- **Follow existing coding style and conventions.** Keep your code consistent with the style, formatting, and conventions in the rest of the code base. Consistency makes it easier to review and modify in the future. For example, if all private properties are prefixed with an underscore `_`, then new ones you add should be prefixed in the same way. Or if methods are named using camelcase, like `thisIsMyNewMethod`, then do not diverge from that by writing `this_is_my_new_method`.
 
 - **Use the repo's default branch** unless instructed otherwise by the project maintainers. Generally, branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the repo's default branch. Usually this is `main`, but it could be `dev`, `develop`, or `master`. The project maintainers may decide to switch the base branch for your proposed changes.
 
@@ -118,12 +117,6 @@ Note the fixed or relevant GitHub issues at the end:
 Resolves: #123
 See also: #456, #789
 ```
-
-## :nail_care: Coding Style
-
-Consistency is the most important. Following the existing style, formatting, and naming conventions of the file you are modifying and of the overall project. Failure to do so will result in a prolonged review process that has to focus on updating the superficial aspects of your code, rather than improving its functionality and performance.
-
-For example, if all private properties are prefixed with an underscore `_`, then new ones you add should be prefixed in the same way. Or, if methods are named using camelcase, like `thisIsMyNewMethod`, then do not diverge from that by writing `this_is_my_new_method`. You get the idea. If in doubt, please ask or search the codebase for something similar.
 
 ## :pray: Credits
 
