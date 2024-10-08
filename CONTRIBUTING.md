@@ -32,7 +32,7 @@ A great way to contribute to the project is to send a detailed issue when you en
 
 - **Fully complete the provided issue template.** The bug report form requests all the information we need to quickly and efficiently address your issue. Provide as much information as you can. Be clear, concise, and descriptive.
 
-- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (```). This improves readability.
+- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially, put code blocks and console outputs in backticks: ` ``` `. This improves readability.
 
 - **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)**, not comments, if you simply want to "+1" an existing issue.
 
@@ -72,14 +72,14 @@ Before [forking the repo](https://help.github.com/en/github/getting-started-with
 
 Please follow this guide to [write a great commit message](https://chris.beams.io/posts/git-commit/).
 
-1. Separate subject from body with a blank line
-2. Limit the subject line to 50 characters
-3. Capitalize the subject line
-4. Do not end the subject line with a period
-5. Use the imperative mood in the subject line (example: "Fix networking issue")
-6. Wrap the body at about 72 characters
+1. Separate subject from body with a blank line.
+2. Limit the subject line to 50 characters.
+3. Capitalize the subject line.
+4. Do not end the subject line with a period.
+5. Use the imperative mood in the subject line. (Example: "Fix networking issue")
+6. Wrap the body at about 72 characters.
 7. Use the body to explain *why*, not *what and how* (the code shows that!)
-8. If applicable, prefix the title with the relevant component name (examples: "[Docs] Fix typo", "[Profile] Fix missing avatar")
+8. If applicable, prefix the title with the relevant component name. (Examples: "[Docs] Fix typo", "[Profile] Fix missing avatar")
 
 Not every commit requires both a subject and a body. Sometimes a single line is fine, especially when the change is so simple that no further context is necessary. For example:
 
