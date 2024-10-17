@@ -24,3 +24,7 @@ We are a modding community for role-playing video games powered by the Infinity 
 Spellhold Studios was founded in 2005 and has continued to grow and evolve in the years since. Even today, many of us are committed to creating mods or new content for the supported games. We strive to be welcoming and respectful, yet make sure that our mod collection is properly preserved for years to come.
 
 This organization serves as a platform for hosting SHS mods and helping new modders contribute to the legacy built by the community.
+
+The complementary [Index of Mods](https://spellhold-studios.github.io/) is the easiest way to browse all IE mods and tools hosted by SHS.
+
+You can reach us through [Discussions](https://github.com/orgs/Spellhold-Studios/discussions) or by joining our [Discord](https://discord.gg/pE2Njbdb2a) server.
