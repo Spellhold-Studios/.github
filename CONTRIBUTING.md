@@ -18,7 +18,7 @@ Please review our [Code of Conduct](https://github.com/Spellhold-Studios/.github
 
 ## :question: Asking Questions
 
-[GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) are not the appropriate place to ask questions about this project and should be reserved for filing bug or compatibility reports. If you want to ask a question, give a suggestion or comment on this project, please use [GitHub Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion) instead.
+[GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) are not the appropriate place to ask questions about this project and should be reserved for filing bug or compatibility reports. If you want to ask a question, give a suggestion, or comment on this project, please use [GitHub Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion) instead.
 
 ## :inbox_tray: Opening Issues
 
@@ -32,7 +32,7 @@ A great way to contribute to the project is to send a detailed issue when you en
 
 - **Fully complete the provided issue template.** The bug report form requests all the information we need to quickly and efficiently address your issue. Provide as much information as you can. Be clear, concise, and descriptive.
 
-- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially, put code blocks and console outputs in backticks: ` ``` `. This improves readability.
+- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially, put code blocks and console outputs in backticks ` ``` `. This improves readability.
 
 - **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)**, not comments, if you simply want to "+1" an existing issue.
 
@@ -52,7 +52,7 @@ Before [forking the repo](https://help.github.com/en/github/getting-started-with
 
 - **Check who maintains the project.** If a given project does not have an active maintainer listed in the credits, Staff members will assume this role to discuss your changes and grant permissions. Please understand the Staff has been entrusted with the preservation of the community's legacy and should therefore be consulted before the changes can be approved.
 
-- **Check the license.** If the author or appointed maintainer has not [added a license](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) to a given repository or project's documentation, it is assumed the default copyright laws apply, meaning you may not reproduce, distribute, or create derivative works without permission. This is yet another reason why you should first discuss your changes and ask for permission when necessary.
+- **Check the license.** If the author or appointed maintainer has not [added a license](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) to a given repository or project's documentation, it is assumed the default copyright laws apply, meaning you may not reproduce (outside of GitHub), distribute, or create derivative works without permission. This is yet another reason why you should first discuss your changes and ask for permission when necessary.
 
 - **Smaller is better.** Submit one pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. Do not refactor or reformat code that is unrelated to your change. It is better to submit many small pull requests rather than a single large one. Enormous pull requests will take enormous amounts of time to review, or may be rejected altogether. 
 
