@@ -4,7 +4,7 @@ This guide serves to set clear expectations for everyone involved with the proje
 
 ### Contents
 
-- [Code of Conduct](#book-code-of-conduct)
+- [Community Guidelines](#book-community-guidelines)
 - [Asking Questions](#question-asking-questions)
 - [Opening Issues](#inbox_tray-opening-issues)
 - [Requesting Features](#bulb-requesting-features)
@@ -12,13 +12,13 @@ This guide serves to set clear expectations for everyone involved with the proje
 - [Writing Commit Messages](#memo-writing-commit-messages)
 - [Credits](#pray-credits)
 
-## :book: Code of Conduct
+## :book: Community Guidelines
 
-Please review our [Code of Conduct](https://github.com/Spellhold-Studios/.github/blob/main/CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone who contributes to this project.
+First, please review the [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines). They are in effect at all times and we expect them to be honored by everyone who contributes to this project.
 
 ## :question: Asking Questions
 
-[GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) are not the appropriate place to ask questions about this project and should be reserved for filing bug or compatibility reports. If you want to ask a question, give a suggestion, or comment on this project, please use [GitHub Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion) instead.
+If you would like to ask a question, give a suggestion, or comment on this project, please use [Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion). Note that [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) should be reserved for filing bug or compatibility reports.
 
 ## :inbox_tray: Opening Issues
 
