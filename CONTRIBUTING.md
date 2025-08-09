@@ -4,7 +4,7 @@ This guide serves to set clear expectations for everyone involved with the proje
 
 ### Contents
 
-- [Community Guidelines](#book-community-guidelines)
+- [Code of Conduct](#book-code-of-conduct)
 - [Asking Questions](#question-asking-questions)
 - [Opening Issues](#inbox_tray-opening-issues)
 - [Requesting Features](#bulb-requesting-features)
@@ -12,9 +12,9 @@ This guide serves to set clear expectations for everyone involved with the proje
 - [Writing Commit Messages](#memo-writing-commit-messages)
 - [Credits](#pray-credits)
 
-## :book: Community Guidelines
+## :book: Code of Conduct
 
-First, please review the [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines). They are in effect at all times and we expect them to be honored by everyone who contributes to this project.
+First, please review the [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines) and [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct). These rules are in effect at all times and we expect them to be honored by everyone who contributes to this project.
 
 ## :question: Asking Questions
 
