@@ -15,7 +15,7 @@
   [<img alt="Forums" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/forums-mini.svg">](http://www.shsforums.net/)
   [<img alt="Discord" src="https://img.shields.io/discord/1256611643404587100?style=flat&logo=discord&logoColor=%23e8e8e8&label=chat&color=%2392403a">](https://discord.gg/pE2Njbdb2a)
   [<img alt="Stars" src="https://img.shields.io/github/stars/Spellhold-Studios?style=flat&logo=github&label=stars&color=%2392403a">](https://github.com/orgs/Spellhold-Studios/repositories)
-  [<img alt="Followers" src="https://img.shields.io/github/followers/Spellhold-Studios?style=flat&label=followers&color=%2392403a">](https://github.com/orgs/Spellhold-Studios/followers)
+  [<img alt="Followers" src="https://img.shields.io/github/followers/Spellhold-Studios?style=flat&logo=github&label=followers&color=%2392403a">](https://github.com/orgs/Spellhold-Studios/followers)
 
 <!-- leave space after last img -->
 </div>
