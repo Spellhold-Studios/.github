@@ -22,7 +22,7 @@
 
 We are a modding community for role-playing video games powered by the Infinity Engine, including titles or series such as *Baldur's Gate*, *Icewind Dale*, and *Planescape: Torment*.
 
-Spellhold Studios was founded in 2005 and has continued to grow and evolve in the years since. Even today, many of us are committed to creating mods or new content for the supported games. We strive to be welcoming and respectful, yet make sure that our mod collection is properly preserved for years to come.
+Spellhold Studios (SHS) was founded in 2005 and has continued to grow and evolve in the years since. Even today, many of us are committed to creating mods or new content for the supported games. We strive to be welcoming and respectful, yet make sure that our mod collection is properly preserved for years to come.
 
 This organization serves as a platform for hosting SHS mods and helping new modders contribute to the legacy built by the community.
 
